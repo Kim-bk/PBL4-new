@@ -1,0 +1,70 @@
+C:\Users\ASUS\source\repos\Server_new\obj\Debug\Server_new.Server.resources
+C:\Users\ASUS\source\repos\Server_new\obj\Debug\Server_new.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Server_new\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Server_new\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Server_new\obj\Debug\Server_new.exe
+C:\Users\ASUS\source\repos\Server_new\obj\Debug\Server_new.pdb
+C:\Users\ASUS\source\repos\Server_new\bin\Debug\Server_new.exe.config
+C:\Users\ASUS\source\repos\Server_new\bin\Debug\Server_new.exe
+C:\Users\ASUS\source\repos\Server_new\bin\Debug\Server_new.pdb
+C:\Users\ASUS\source\repos\Server_new\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\bin\Debug\Server_new.exe.config
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\bin\Debug\Server_new.exe
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\bin\Debug\Server_new.pdb
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\obj\Debug\Server_new.Server.resources
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\obj\Debug\Server_new.Properties.Resources.resources
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\obj\Debug\Server_new.exe
+C:\Users\ASUS\Downloads\PBL4_ClientServer (1)\PBL4_ClientServer\Server_new\obj\Debug\Server_new.pdb
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\bin\Debug\Server_new.exe.config
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\bin\Debug\Server_new.exe
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\bin\Debug\Server_new.pdb
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\obj\Debug\Server_new.Server.resources
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\obj\Debug\Server_new.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\obj\Debug\Server_new.exe
+C:\Users\ASUS\OneDrive\Desktop\PBL4_ClientServer\Server_new\obj\Debug\Server_new.pdb
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\bin\Debug\Server_new.exe.config
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\bin\Debug\Server_new.exe
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\bin\Debug\Server_new.pdb
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\obj\Debug\Server_new.Server.resources
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\obj\Debug\Server_new.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\obj\Debug\Server_new.exe
+C:\Users\ASUS\OneDrive\Desktop\PBL4\Server_new\obj\Debug\Server_new.pdb
+D:\PBL4\PBL4\Server_new\bin\Debug\Server_new.exe.config
+D:\PBL4\PBL4\Server_new\bin\Debug\Server_new.exe
+D:\PBL4\PBL4\Server_new\bin\Debug\Server_new.pdb
+D:\PBL4\PBL4\Server_new\obj\Debug\Server.csprojAssemblyReference.cache
+D:\PBL4\PBL4\Server_new\obj\Debug\Server_new.Server.resources
+D:\PBL4\PBL4\Server_new\obj\Debug\Server_new.Properties.Resources.resources
+D:\PBL4\PBL4\Server_new\obj\Debug\Server.csproj.GenerateResource.cache
+D:\PBL4\PBL4\Server_new\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\PBL4\PBL4\Server_new\obj\Debug\Server_new.exe
+D:\PBL4\PBL4\Server_new\obj\Debug\Server_new.pdb
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\bin\Debug\Server_new.exe.config
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\bin\Debug\Server_new.exe
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\bin\Debug\Server_new.pdb
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\obj\Debug\Server_new.Server.resources
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\obj\Debug\Server_new.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\obj\Debug\Server_new.exe
+C:\Users\ASUS\OneDrive\Desktop\PBL4_new\PBL4\Server_new\obj\Debug\Server_new.pdb
+D:\Semester 5\PBL4\Server_new\bin\Debug\Server_new.exe.config
+D:\Semester 5\PBL4\Server_new\bin\Debug\Server_new.exe
+D:\Semester 5\PBL4\Server_new\bin\Debug\Server_new.pdb
+D:\Semester 5\PBL4\Server_new\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Semester 5\PBL4\Server_new\obj\Debug\Server_new.Server.resources
+D:\Semester 5\PBL4\Server_new\obj\Debug\Server_new.Properties.Resources.resources
+D:\Semester 5\PBL4\Server_new\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Semester 5\PBL4\Server_new\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Semester 5\PBL4\Server_new\obj\Debug\Server_new.exe
+D:\Semester 5\PBL4\Server_new\obj\Debug\Server_new.pdb

@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\PBL4\bin\Debug\PBL4.exe.config
+C:\Users\ASUS\source\repos\PBL4\bin\Debug\PBL4.exe
+C:\Users\ASUS\source\repos\PBL4\bin\Debug\PBL4.pdb
+C:\Users\ASUS\source\repos\PBL4\obj\Debug\PBL4.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PBL4\obj\Debug\PBL4.Properties.Resources.resources
+C:\Users\ASUS\source\repos\PBL4\obj\Debug\PBL4.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PBL4\obj\Debug\PBL4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PBL4\obj\Debug\PBL4.exe
+C:\Users\ASUS\source\repos\PBL4\obj\Debug\PBL4.pdb
+C:\Users\ASUS\source\repos\PBL4\obj\Debug\PBL4.Client.resources
